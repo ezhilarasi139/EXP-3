@@ -1,5 +1,5 @@
-# EXP-3
-## EXPT NO: 3	STAIR CASE WIRING                     
+
+# EXP-3	STAIR CASE WIRING                     
 ## NAME : EZHILARASI N
 ## REG NO : 212224040088
  
