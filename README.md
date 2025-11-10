@@ -1,8 +1,8 @@
 
 # EXP-3	STAIR CASE WIRING                     
-### NAME : EZHILARASI N
-### REG NO : 212224040088
- 
+## NAME : EZHILARASI N
+## REG NO : 212224040088
+## DATE : 23.09.2025
 ## AIM
 
  To control the status of the given lamp by using two–way switches. 
